@@ -1,4 +1,4 @@
-### Hi, I’m Shyan Walker 
+### Hi I’m Shyan Walker 
 I’m interested in Software Development and Computer Programming
 Currently learning frontend/backend programming 
 I’m looking to collaborate on my different projects so I would love to be in team based environments
