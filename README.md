@@ -2,13 +2,13 @@
 
  👀 I'm passionate about self-expression and embarking on and innovating new projects/products.
 
-- 🌱 I’m avidly expanding my expertise in software engineering, building on my foundation from a bachelor's degree in computer science and further honed at the prestigious General Assembly bootcamp. I'm actively engaging in projects that deepen my proficiency in the latest front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MongoDB, Mongoose, SQL, Python, Django, and Amazon Web Services.
+ 🌱 I’m avidly expanding my expertise in software engineering, building on my foundation from a bachelor's degree in computer science and further honed at the prestigious General Assembly bootcamp. I'm actively engaging in projects that deepen my proficiency in the latest front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MongoDB, Mongoose, SQL, Python, Django, and Amazon Web Services.
 
-- 📫 Connect with me on LinkedIn: [https://www.linkedin.com/in/shyan-walker/](https://www.linkedin.com/in/shyan-walker/)
+ 📫 Connect with me on LinkedIn: [https://www.linkedin.com/in/shyan-walker/](https://www.linkedin.com/in/shyan-walker/)
 
-- 😄 Pronouns: He/Him
+😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I thrive on transforming my creativity into innovative software solutions and tackling intricate challenges.
+ ⚡ Fun fact: I thrive on transforming my creativity into innovative software solutions and tackling intricate challenges.
 
 <img src="comp-img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 
