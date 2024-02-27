@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @shyan-spec
+ 👋 Hi, I'm @shyan-spec
 
-- 👀 I'm passionate about self-expression and embarking on and innovating new projects/products.
+ 👀 I'm passionate about self-expression and embarking on and innovating new projects/products.
 
 - 🌱 I’m avidly expanding my expertise in software engineering, building on my foundation from a bachelor's degree in computer science and further honed at the prestigious General Assembly bootcamp. I'm actively engaging in projects that deepen my proficiency in the latest front-end and back-end technologies, including HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MongoDB, Mongoose, SQL, Python, Django, and Amazon Web Services.
 
