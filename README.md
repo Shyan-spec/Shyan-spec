@@ -5,7 +5,7 @@
  - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/shyan-walker/
   -😄 Pronouns: He/Him
  - ⚡ Fun fact: I thrive on transforming my creativity into innovative software solutions and tackling intricate challenges.
-<img src="Screenshot 2024-02-27 at 2.15.13 PM.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
+<img src="comp-img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
 
 <p align="left">
   Welcome to my GitHub Profile! <br> I'm Shyan Walker, an ever-evolving Full Stack Software Engineer. <br>
