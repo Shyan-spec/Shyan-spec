@@ -1,4 +1,4 @@
- 👋 Hi I'm @shyan-spec
+ 👋 Hi, I'm @shyan-spec
 
  👀 I'm passionate about self-expression and embarking on and innovating new projects/products.
 
